@@ -16,6 +16,7 @@ body {
 }
 
 .container {
+  position: relative;
   width: 90%;
   margin: auto;
   border: 3px solid black;
@@ -28,21 +29,36 @@ body {
 }
 
 .red {
+  position: absolute;
+  top: 50px;
+  right: 100px;
   background-color: pink;
 }
 
 .green {
+  position: absolute;
+  bottom: 50px;
+  right: 50%;
   background-color: lightgreen;
 }
 
 .blue {
+  position: relative;
+  left: 200px;
+  top: 50px;
   background-color: lightblue;
 }
 
 .orange {
+  position: absolute;
+  top: 75%;
+  left: 25%;
   background-color: orange;
 }
 
 .yellow {
+  position: fixed;
+ left: 0%;
+ width: 100%;
   background-color: yellow;
 }
