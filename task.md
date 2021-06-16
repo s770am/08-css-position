@@ -10,7 +10,7 @@ In the first part we'll just play around with some basic positioning rules to en
 
 The goal is to make your final version look like mine:
 
-![Part 1: Final Version](part-1-final.png)
+![Part 1: Final Version](https://github.com/webdev-june-2021/notes_images/blob/main/part1.png?raw=true)
 
 ### Tasks
 1. Make all the positioning for the boxes relative to the div with class `container`
@@ -30,7 +30,7 @@ In this part, you'll be creating film cards with actions that should be specific
 ### Tasks
 Here's the final version you're trying to recreate:
 
-![Part 2: Final Version](part-2-final.png)
+![Part 2: Final Version](https://github.com/webdev-june-2021/notes_images/blob/main/par2.png?raw=true)
 
 The plan is to make yours look as close to the final version as possible. The key features are:
 
