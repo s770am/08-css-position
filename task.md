@@ -1,4 +1,9 @@
-# CSS Positioning & Intro to Sass
+# CSS Positioning 
+
+Before we start, lets
+
+Fork the assignment into you gitHub accounts
+Clone the forked repo into local machine
 
 This assignment is broken into two parts. After doing this assignment, you should have an understanding of:
 
