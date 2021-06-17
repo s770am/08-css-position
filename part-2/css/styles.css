@@ -28,14 +28,14 @@ figure {
 .film-poster {
 position: relative;
 margin: 3vh;
-max-width: 30vw;
+max-width: 11vw;
 }
 
 .film {
   position: relative;
   display: flex;
   width: 75%;
-  margin: 40px auto;
+  margin: 10px auto;
   border: 1px solid rgb(226, 226, 226);
   align-items: center;
 }
@@ -61,4 +61,7 @@ font-weight: 600;
 }
 .film-title {
 font-size: xx-large;
+}
+.film-details {
+  align-self: flex-start;
 }
